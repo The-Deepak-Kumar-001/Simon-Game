@@ -4,7 +4,7 @@ WELCOME TO THE SIMON GAME WEBSITE.
 
 # Description:
 
-This is a web-based implementation of the classic memory game "Simon." The game presents a series of colors in a specific sequence, and the player must repeat the sequence in the correct order. As the game progresses, the sequence becomes longer and more challenging, testing the player's memory and concentration.
+This is a web-based implementation of the classic memory game "Simon".The game presents a series of colors in a specific sequence, and the player must repeat the sequence in the correct order. As the game progresses, the sequence becomes longer and more challenging, testing the player's memory and concentration.
 
 # Features:
 
